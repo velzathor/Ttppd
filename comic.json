@@ -1,18 +1,65 @@
 {
   "title": "Tanah tragedy, pertempuran para dewa",
-  "author": "Ferdispidos, rendi ekariadi, bedsan(finqur)",
+  "author": "Ferdispidos, Rendi Ekariadi, Bedsan (Finqur)",
   "genres": [
     "Action",
-    "fantasy",
+    "Fantasy",
     "Adventure",
-    "magic",
-    "drama",
-    "comedy",
-    "slice of life"
+    "Magic",
+    "Drama",
+    "Comedy",
+    "Slice of Life"
   ],
+  "description": "Utama, menceritakan 3 orang yang di-teleportasikan ke dunia lain.",
   "chapters": [
-    "ch_1",
-    "ch_2"
-  ],
-  "description": "utama, menceritakan 3 orang yang di teleportasikan di dunia lain yang nantinya akan membentuk sebuah party dan mencari tahu alasan mereka ada dunia itu. Penuh lika liku 3 individu yang berbeda pemikiran sering kali bertengkar \n\nMereka terikat dengan dunia yang baru ini dengan nasibnya masing masing"
+    {
+      "id": "ch_1",
+      "panels": [
+        "img_1.jpg",
+        "img_2.jpg",
+        "img_3.jpg",
+        "img_4.jpg",
+        "img_5.jpg",
+        "img_6.jpg",
+        "img_7.jpg",
+        "img_8.jpg",
+        "img_9.jpg",
+        "img_10.jpg",
+        "img_11.jpg",
+        "img_12.jpg",
+        "img_13.jpg",
+        "img_14.jpg",
+        "img_15.jpg",
+        "img_16.jpg",
+        "img_17.jpg"
+      ]
+    },
+    {
+      "id": "ch_2",
+      "panels": [
+        "img_1.jpg",
+        "img_2.jpg",
+        "img_3.jpg",
+        "img_4.jpg",
+        "img_5.jpg",
+        "img_6.jpg",
+        "img_7.jpg",
+        "img_8.jpg",
+        "img_9.jpg",
+        "img_10.jpg",
+        "img_11.jpg",
+        "img_12.jpg",
+        "img_13.jpg",
+        "img_14.jpg",
+        "img_15.jpg",
+        "img_16.jpg",
+        "img_17.jpg",
+        "img_18.jpg",
+        "img_19.jpg",
+        "img_20.jpg",
+        "img_21.jpg",
+        "img_22.jpg"
+      ]
+    }
+  ]
 }
