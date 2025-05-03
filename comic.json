@@ -63,7 +63,9 @@
     },
     {
       "id": "ch_3",
-      "panels": []
+      "panels": [
+        "img_1.jpg"
+      ]
     }
   ]
 }
